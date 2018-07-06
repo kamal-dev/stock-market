@@ -6,3 +6,6 @@ The inputs provided for the training of the neural network were Open price, high
 		Extremely High Loss(EHL), Very High Loss(VHL), High Loss(HL), Normal(N), High Profit(HP), Very High Profit(VHP), Extremely High Profit(EHP).
 
 Link for dataset: https://www.nseindia.com/products/content/equities/indices/historical_index_data.htm
+
+Python Libraries required for this are:
+	Keras, numpy, pandas and tensoflow
